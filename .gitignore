@@ -1,0 +1,21 @@
+# Emacs
+backups/
+*.org#
+*~
+\#*\#
+\.\#*
+
+# Latex
+*.pdf
+*.bbl
+temp/
+
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
